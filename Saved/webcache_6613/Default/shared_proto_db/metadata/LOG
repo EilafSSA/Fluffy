@@ -1,2 +1,3 @@
-2026/05/13-23:36:36.385 7dcc Creating DB C:\Users\e2982\OneDrive\Documents\Unreal Projects\Fluffy\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/05/13-23:36:36.390 7dcc Reusing MANIFEST C:\Users\e2982\OneDrive\Documents\Unreal Projects\Fluffy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/05/16-16:30:27.596 581c Reusing MANIFEST C:\Users\e2982\OneDrive\Documents\Unreal Projects\Fluffy\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/05/16-16:30:27.605 581c Recovering log #3
+2026/05/16-16:30:27.605 581c Reusing old log C:\Users\e2982\OneDrive\Documents\Unreal Projects\Fluffy\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 

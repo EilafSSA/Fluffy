@@ -1,3 +1,5 @@
-2026/05/17-21:33:32.572 7bc8 Reusing MANIFEST C:\Users\e2982\OneDrive\Documents\Unreal Projects\Fluffy\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/17-21:33:32.578 7bc8 Recovering log #3
-2026/05/17-21:33:32.583 7bc8 Reusing old log C:\Users\e2982\OneDrive\Documents\Unreal Projects\Fluffy\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/19-14:50:58.971 2a70 Reusing MANIFEST C:\Users\e2982\OneDrive\Documents\Unreal Projects\Fluffy\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/19-14:50:58.976 2a70 Recovering log #3
+2026/05/19-14:50:58.976 2a70 Level-0 table #3: started
+2026/05/19-14:50:58.984 2a70 Level-0 table #3: 62258 bytes OK
+2026/05/19-14:50:58.989 2a70 Delete type=0 #3
